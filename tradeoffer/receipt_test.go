@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vincentserpoul/mangosteam"
-	"github.com/vincentserpoul/mangosteam/inventory"
+	"github.com/kaizer666/mangosteam"
+	"github.com/kaizer666/mangosteam/inventory"
 )
 
 func TestGetItemsFromReceipt(t *testing.T) {

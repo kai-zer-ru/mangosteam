@@ -5,7 +5,7 @@ import (
 	"net/http/cookiejar"
 	"net/url"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 // NewWebSteamClient creates a web steam client with the right cookies

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 func TestAreItemsDataSimilarUserInventoryNotPresent(t *testing.T) {

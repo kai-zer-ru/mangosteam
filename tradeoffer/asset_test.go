@@ -3,7 +3,7 @@ package tradeoffer
 import (
 	"testing"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 func TestAssetDefaults(t *testing.T) {

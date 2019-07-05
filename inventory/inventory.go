@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 // InvChecker is the user interface

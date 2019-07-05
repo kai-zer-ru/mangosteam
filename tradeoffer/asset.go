@@ -3,7 +3,7 @@ package tradeoffer
 import (
 	"strconv"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 // AssetID is the identifier for an asset in an inventory

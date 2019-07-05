@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vincentserpoul/mangosteam"
-	"github.com/vincentserpoul/mangosteam/auth"
+	"github.com/kaizer666/mangosteam"
+	"github.com/kaizer666/mangosteam/auth"
 )
 
 func getTestSteamGuardAccount() auth.SteamGuardAccount {

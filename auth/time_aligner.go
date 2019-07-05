@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 var isTimeAligned bool

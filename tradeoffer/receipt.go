@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/vincentserpoul/mangosteam"
-	"github.com/vincentserpoul/mangosteam/inventory"
+	"github.com/kaizer666/mangosteam"
+	"github.com/kaizer666/mangosteam/inventory"
 )
 
 // ReceiptItem represents an item in the receipt page

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 // PriceOverview represent a price for an object

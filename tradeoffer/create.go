@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 // SteamTradeOfferID is the identifier of the tradeoffer within steam network

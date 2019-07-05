@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 // RSAKey represent the key for encoding password

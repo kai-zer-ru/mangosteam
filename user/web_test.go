@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/vincentserpoul/mangosteam"
+	"github.com/kaizer666/mangosteam"
 )
 
 func TestOKNewWebSteamClient(t *testing.T) {
